@@ -1,6 +1,6 @@
 # [Edukio-Site](https://edukio-site.vercel.com)
 
-This is a app landing page based on [this project](https://github.com/BlackrockDigital/startbootstrap-new-age) created by [Start Bootstrap](http://startbootstrap.com/) usin [Bootstrap](http://getbootstrap.com/).
+This is a app landing page based on [this project](https://github.com/BlackrockDigital/startbootstrap-new-age) created by [Start Bootstrap](http://startbootstrap.com/) using [Bootstrap](http://getbootstrap.com/).
 
 ## Preview
 
