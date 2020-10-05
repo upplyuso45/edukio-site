@@ -285,7 +285,6 @@ section.features .feature-item i {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/bg-cta.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -397,6 +396,11 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .bg-primary {
   background: #4169E1;
   background: linear-gradient(#4169E1, #4169E1);
+}
+
+.bg-primary2 {
+  background: #a0a0a0;
+  background: linear-gradient(#a0a0a0, #666666);
 }
 
 .text-primary {
