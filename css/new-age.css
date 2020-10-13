@@ -399,8 +399,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .bg-primary2 {
-  background: #a0a0a0;
-  background: linear-gradient(#a0a0a0, #666666);
+  background: ##344357;
+  background: linear-gradient(#344357, #344357);
 }
 
 .text-primary {
@@ -435,3 +435,16 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   font-size: 11px;
   padding: 15px 45px;
 }
+// classe para a centralização da apresentação dos desenvolvedores
+.equipe .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.equipe h2 {
+  font-weight: 400;
+}
+.equipe .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
