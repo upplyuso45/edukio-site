@@ -278,6 +278,7 @@ section.features .feature-item i {
   display: block;
   margin-bottom: 15px;
   background: linear-gradient(to left, #7b4397, #dc2430);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
