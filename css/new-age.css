@@ -155,7 +155,7 @@ header.masthead {
   width: 100%;
   padding-top: 150px;
   padding-bottom: 100px;
-  color: white;
+  color: #656565;
   /*background: url("../img/bg-pattern.png"), #7b4397;
   background: url("../img/bg-pattern.png"), linear-gradient(to left, #4169E1, #191970);*/
 }
@@ -416,9 +416,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .btn-outline {
-  color: white;
+  color: #656565;
   border: 1px solid;
-  border-color: white;
+  border-color: #656565;
 }
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
