@@ -33,7 +33,11 @@
       $("#logo").css({"height": "25px","margin-top": "0px","position":"static"});
     } else {
       $("#mainNav").removeClass("navbar-shrink");
-      $("#logo").css({"height": "","margin-top": "","position":"absolute"});
+      if( $(window).width() <= 991.98){
+        $("#logo").css({"height": "","margin-top": "","position":""});
+      }else{
+        $("#logo").css({"height": "","margin-top": "","position":"absolute"});
+      }
     }
   };
   // Collapse now if page is not at top
