@@ -33,7 +33,7 @@
       $("#logo").css({"height": "25px","margin-top": "0px"});
     } else {
       $("#mainNav").removeClass("navbar-shrink");
-      $("#logo").css("");
+      $("#logo").css({"height": "","margin-top": ""});
     }
   };
   // Collapse now if page is not at top
