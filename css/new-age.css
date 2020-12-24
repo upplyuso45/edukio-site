@@ -457,7 +457,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 @media (min-width: 991.98px) {
   .navbar-brand img{
-    height: 100px;
+    height: 50px;
+    margin-top: 25px;
   }
 }
 
