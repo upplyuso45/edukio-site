@@ -120,15 +120,15 @@ section h2 {
     color: fade(black, 70%);
   }
   #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-    color: black;
+    color: #3278d8;
   }
   #mainNav .navbar-nav > li > a,
   #mainNav .navbar-nav > li > a:focus {
-    color: black;
+    color: #3278d8;
   }
   #mainNav .navbar-nav > li > a:hover,
   #mainNav .navbar-nav > li > a:focus:hover {
-    color: black;
+    color: #3278d8;
   }
   #mainNav.navbar-shrink {
     border-color: rgba(34, 34, 34, 0.1);
