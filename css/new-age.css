@@ -416,9 +416,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .btn-outline {
-  color: #656565;
+  color: #2d2d2d;
   border: 1px solid;
-  border-color: #656565;
+  border-color: #2d2d2d;
 }
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
