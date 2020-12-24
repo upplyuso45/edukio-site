@@ -130,7 +130,7 @@ section h2 {
   #mainNav .navbar-nav > li > a:focus:hover {
     color: #0c4a9c;
   }
-  #mainNav.navbar-shrink {
+  #mainNav.navbar-shrink{
     border-color: rgba(34, 34, 34, 0.1);
     background-color: white;
   }
@@ -460,6 +460,11 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
     height: 50px;
     margin-top: 25px;
   }
+}
+
+.logo-nav{
+  height: 25px;
+  margin-top: 0px;
 }
 
 #particles-js {
