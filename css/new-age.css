@@ -452,12 +452,13 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .navbar-brand img{
-  position: absolute;
+  position: static;
   height: 25px;
 }
 
 @media (min-width: 991.98px) {
   .navbar-brand img{
+    position: absolute;
     height: 50px;
     margin-top: 25px;
   }
