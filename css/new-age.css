@@ -222,18 +222,6 @@ section.download .badges .badge-link img {
   height: 60px;
 }
 
-@media (min-width: 1199.98px) {
-  .navbar-brand img{
-    height: 25px;
-  }
-}
-
-@media (min-width: 991.98px) {
-  .navbar-brand img{
-    height: 100px;
-  }
-}
-
 @media (min-width: 768px) {
   section.download .badges .badge-link {
     display: inline-block;
@@ -464,8 +452,13 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .navbar-brand img{
-    -webkit-filter: drop-shadow(-1px 0px 1px #ffffff);
-    filter: drop-shadow(-1px 0px 1px #ffffff);
+    height: 25px;
+}
+
+@media (min-width: 991.98px) {
+  .navbar-brand img{
+    height: 100px;
+  }
 }
 
 #particles-js {
