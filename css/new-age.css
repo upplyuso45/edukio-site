@@ -224,13 +224,13 @@ section.download .badges .badge-link img {
 
 @media (min-width: 1199.98px) {
   .navbar-brand img{
-    height: 100px;
+    height: 25px;
   }
 }
 
 @media (min-width: 991.98px) {
   .navbar-brand img{
-    height: 25px;
+    height: 100px;
   }
 }
 
