@@ -395,13 +395,13 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .bg-primary {
-  background: #4169E1;
+  background: #4169e1;
   background: linear-gradient(#3379d8, #4169E1);
 }
 
-.bg-primary2 {
-  background: #FFFFFF;
-  background: linear-gradient(rgb(255 255 255), rgb(239 239 239));
+.bg-secondary {
+  background: #f5f5f5;
+  background: linear-gradient(to top, rgb(255 255 255), rgb(245 245 245));
   padding-top: 100px!important;
   padding-bottom: 100px!important;
 }
@@ -423,8 +423,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
   color: white;
-  border-color: #fdcc52;
-  background-color: #fdcc52;
+  border-color: #3278d8;
+  background-color: #3278d8;
 }
 
 .btn {
