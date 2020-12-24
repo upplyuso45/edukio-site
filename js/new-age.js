@@ -30,10 +30,10 @@
   var navbarCollapse = function() {
     if ($("#mainNav").offset().top > 100) {
       $("#mainNav").addClass("navbar-shrink");
-      $("#mainNav img").addClass("logo-nav");
+      $(".navbar-brand img").addClass("logo-nav");
     } else {
       $("#mainNav").removeClass("navbar-shrink");
-      $("#mainNav img").removeClass("logo-nav");
+      $(".navbar-brand img").removeClass("logo-nav");
     }
   };
   // Collapse now if page is not at top
