@@ -8,13 +8,13 @@
   <meta name="author" content="">
 
   <title>Edukio - Evoluindo a Educação</title>
-
+  <!-- Redirecionar quando acessado pelo aplicativo -->
   <script>
   var str = navigator.userAgent;
   var n = str.search("Linux x86_64");
-  
+  if(n > 0){
   window.location.href = "https://app.edukio.com/atualiza_app.php";
-  
+  }
   </script>
   
   <!-- Bootstrap core CSS -->
