@@ -478,3 +478,26 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   background-size: cover;
   background-position: 50% 50%;
 }
+
+.nav-menu li.login a {
+  color: #f2f2f2;
+  background: #19C8CF;
+  padding: 7px 22px;
+  border-radius: 50px;
+  border: 2px solid #19C8CF;
+  transition: all ease-in-out 0.3s;
+  font-weight: 500;
+  margin-left: 8px;
+  margin-top: 2px;
+  line-height: 1;
+  font-size: 13px;
+}
+
+.nav-menu li.login a:hover {
+  background: none;
+  color: #19C8CF;
+}
+
+.nav-menu li.login:hover a:before, .nav-menu li.login.menu-active a:before {
+  visibility: hidden;
+}
