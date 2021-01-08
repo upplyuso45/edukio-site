@@ -480,7 +480,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .navbar-nav li.login a {
-  color: #f2f2f2;
+  color: #ffffff !important;
   background: #007bff;
   padding: 7px 22px;
   border-radius: 50px;
