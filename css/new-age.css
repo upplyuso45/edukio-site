@@ -495,7 +495,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 .navbar-nav li.login a:hover {
   background: none;
-  color: #007bff;
+  color: #007bff !important;
 }
 
 .navbar-nav li.login:hover a:before, .navbar-nav li.login.menu-active a:before {
