@@ -479,7 +479,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   background-position: 50% 50%;
 }
 
-.nav-menu li.login a {
+.navbar-nav li.login a {
   color: #f2f2f2;
   background: #19C8CF;
   padding: 7px 22px;
@@ -493,11 +493,11 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   font-size: 13px;
 }
 
-.nav-menu li.login a:hover {
+.navbar-nav li.login a:hover {
   background: none;
   color: #19C8CF;
 }
 
-.nav-menu li.login:hover a:before, .nav-menu li.login.menu-active a:before {
+.navbar-nav li.login:hover a:before, .navbar-nav li.login.menu-active a:before {
   visibility: hidden;
 }
