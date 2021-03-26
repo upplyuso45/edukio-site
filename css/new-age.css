@@ -561,3 +561,19 @@ footer ul li a.active {
 .navbar-nav li.login.menu-active a:before {
     visibility: hidden;
 }
+
+
+.panel-heading{
+    cursor: pointer;
+ } 
+
+.panel-heading  i.fas:before {
+    content: "\f107";
+    float: right;
+    transition: all 0.5s;
+ }
+ .panel-heading.active i.fas:before {
+     -webkit-transform: rotate(180deg);
+     -moz-transform: rotate(180deg);
+     transform: rotate(180deg);
+ } 
