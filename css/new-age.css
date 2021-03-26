@@ -337,7 +337,6 @@ section.cta .overlay {
     padding: 25px 25px;
     box-sizing: border-box;
     cursor: pointer;
-    margin: 75px 75px;
     background-position: center;
     background-size: cover;
     transition: 0.5s;
