@@ -160,8 +160,8 @@ header.masthead {
     padding-top: 150px;
     padding-bottom: 100px;
     color: #656565;
-    /*background: url("../img/bg-pattern.png"), #7b4397;
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #4169E1, #191970);*/
+    /*background: url("../imagens/bg-pattern.png"), #7b4397;
+  background: url("../imagens/bg-pattern.png"), linear-gradient(to left, #4169E1, #191970);*/
 }
 
 header.masthead .header-content {
@@ -204,7 +204,7 @@ header.masthead .device-container .screen img {
 }
 
 section.download {
-    background-image: url(../img/quadro.png);
+    background-image: url(../imagens/quadro.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -343,15 +343,15 @@ section.cta .overlay {
 }
 
 .card1 {
-    background-image: url(../img/cemi2.png);
+    background-image: url(../imagens/cemi2.png);
 }
 
 .card2 {
-    background-image: url(../img/febratec.png);
+    background-image: url(../imagens/febratec.png);
 }
 
 .card3 {
-    background-image: url(../img/seedf.png);
+    background-image: url(../imagens/seedf.png);
 }
 
 .card:hover {
@@ -359,7 +359,7 @@ section.cta .overlay {
 }
 
 section.contact {
-    background-image: url(../img/lapis.png);
+    background-image: url(../imagens/lapis.png);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
