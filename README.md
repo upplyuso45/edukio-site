@@ -4,7 +4,8 @@ This is a Edukio app landing page based on [this project](https://github.com/Bla
 
 ## Preview
 
-[![Edukio Site Preview](https://raw.githubusercontent.com/GuiEnrik/edukio-site/master/img/home_page.png)](https://edukio.com/)
+[![Edukio Site Preview](https://raw.githubusercontent.com/GuiEnrik/edukio-site/master/imagens
+/home_page.png)](https://edukio.com/)
 
 ## About Edukio Site
 
